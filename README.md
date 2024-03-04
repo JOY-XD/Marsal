@@ -1,6 +1,6 @@
 
 
 # git clone https://github.com/JOY-XD/Marsal.git
-# cd marsal
+# cd Marsal
 # python marsal.py
 
